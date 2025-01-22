@@ -1,23 +1,28 @@
-##Aluraflix##
+*Aluraflix*
+
 Aluraflix é uma aplicação de catálogo de vídeos inspirada, projetada para gerenciar e visualizar vídeos organizados por categorias. Este projeto faz parte dos desafios do programa Oracle Next Education (ONE).
 
-##Recursos##
-Listagem de vídeos por categorias.
-CRUD completo: Criar, Ler, Atualizar e Excluir vídeos.
-Uso de uma API REST para armazenamento de vídeos.
-Design responsivo e estilização com styled-components.
-Contexto global para gerenciamento do estado dos vídeos.
+*Recursos*
 
-##Tecnologias Utilizadas##
-React: Biblioteca para construir interfaces de usuário.
-Axios: Gerenciamento de solicitações HTTP.
-React Icons: Ícones para botões de edição e exclusão.
-Styled-components: Estilização de componentes.
-MockAPI: Simulação de uma API REST.
-React Router: Navegação na aplicação (se aplicável).
+- Listagem de vídeos por categorias.
+- CRUD completo: Criar, Ler, Atualizar e Excluir vídeos.
+- Uso de uma API REST para armazenamento de vídeos.
+- Design responsivo e estilização com styled-components.
+- Contexto global para gerenciamento do estado dos vídeos.
 
+*Tecnologias Utilizadas*
 
-##Uso##
-Adicione um vídeo fornecendo o título, link e categoria.
-Edite os vídeos diretamente pela interface usando o ícone de edição.
-Exclua vídeos usando o ícone de lixeira com confirmação de segurança.
+- React: Biblioteca para construir interfaces de usuário.
+- Axios: Gerenciamento de solicitações HTTP.
+- React Icons: Ícones para botões de edição e exclusão.
+- Styled-components: Estilização de componentes.
+- MockAPI: Simulação de uma API REST.
+- React Router: Navegação na aplicação (se aplicável).
+
+*Seu Uso*
+
+- Adicione um vídeo fornecendo o título, link e categoria.
+- Edite os vídeos diretamente pela interface usando o ícone de edição.
+- Exclua vídeos usando o ícone de lixeira com confirmação de segurança.
+
+Desenvolvido por Yasmin Monteiro
